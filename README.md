@@ -1,6 +1,6 @@
 # Branch section
 
-- [DEMO LINK](https://11olya112.github.io/Eco___cosmetics/)
+- [DEMO LINK](https://11olya112.github.io/branches/)
 
 ## Description
 
